@@ -37,7 +37,7 @@ nav>span {
 }
 
 .top {
-    padding: 6% 10%;
+    padding: 5% 10%;
     font-size: larger;
     background-image: url("bg2.jpg");
     background-position: center;
@@ -46,7 +46,7 @@ nav>span {
     color: white;
 }
 
-.top>header {
+.top>div {
     width: 67%;
     background-color: rgba(0, 0, 0, 0.4);
     padding: 2%;
